@@ -1,0 +1,34 @@
+   0 mkdir /mydir
+   1 mkdir /mydir/myfile
+   2 ls myfile.txt
+   3 ls myfie
+   4 ls /mydir
+   5 touch /mydir /myfile
+   6 ls /mydir
+   7 touch /mygir /myfile.txt
+   8 cp > /myfile.txt "hello my name is Max"
+   9 head /myfile.txt
+  10 teil -2 myfile.txt
+  11 nano myfile.txt
+  12 cat myfile.txt
+  13 mkdir /home/user/start
+  14 mkdir /home
+  15 mkdir /home.2
+  16 touch /home.2/user/start/123.txt
+  17 mkdir /home.2/user/start
+  18 mkdir -p /home/user/start
+  19 touch /home/user/start/123.txt
+  20 nano 123.txt
+  21 cat 123.txt
+  22 echo $(date) >> 123.txt
+  23 date 123.txt
+  24 echo $(date) >> /home/user/start/123.txt
+  25 date 
+  26 mkdir -p /opt/task
+  27 touch /opt/task/start.txt
+  28 cp /home.2/user/start/123.txt /opt/task/start.txt
+  29 tail -4 /* >> /opt/task/start.txt
+  30 tail -n 4 /* >> /opt/task/start.txt
+  31 hystory
+  32 history
+  33 history > Homework.txt
